@@ -3,7 +3,7 @@
 in this repository I document all my development within the Computer Science RoadMap<br>
 from <a href="https://roadmap.sh/computer-science">Computer-Science/roadmap</a>
 
-the exercises and tests will be done by me using the C++ programming language that I am learning at the same time
+the exercises and tests will be done by me using the <b>java</b> programming language that I am learning at the same time
 
 <br>
 <h1>curriculum</h1> 
