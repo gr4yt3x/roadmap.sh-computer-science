@@ -1,5 +1,8 @@
 # Array 
 
+<img src="https://user-images.githubusercontent.com/59585859/209886932-b4582272-a208-4b53-99e9-3003a25d6d19.png" width="35%">
+
+
 <h3>Watch:</h3>
 
  
@@ -17,4 +20,4 @@
 in the lesson from Benkeley University Linear and Multi-Dim Arrays 
 There are two examples of code with arrays:
 
-<a href="./Array/printPrimes.cpp">PrintPrimes </a> - Checks the prime numbers
+<a href="./printPrimes.java">PrintPrimes </a> - Checks the prime numbers
